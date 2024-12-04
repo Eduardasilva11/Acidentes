@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Acidentes/static/css/main.9715fab9.css",
+    "main.js": "/Acidentes/static/js/main.4021dc84.js",
+    "static/media/fundo.png": "/Acidentes/static/media/fundo.fe44a5aba3c8690f45cd.png",
+    "index.html": "/Acidentes/index.html",
+    "main.9715fab9.css.map": "/Acidentes/static/css/main.9715fab9.css.map",
+    "main.4021dc84.js.map": "/Acidentes/static/js/main.4021dc84.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9715fab9.css",
+    "static/js/main.4021dc84.js"
+  ]
+}
